@@ -1,0 +1,5 @@
+export const ProductActionType = {
+    ALL_PRODUCTS: "ALL_PRODUCTS",
+    SELECTED_PRODUCT:"SELECTED_PRODUCT",
+    REMOVE_PRODUCT:"REMOVE_PRODUCT"
+};
